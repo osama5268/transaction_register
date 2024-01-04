@@ -12,7 +12,7 @@ You can use `setx` (Windows) or `export` (Unix/Linux) for temporary variables.
 
 To start the server, use the following command:
 
-- java -jar /path/to/kirana_transactions-0.0.1-SNAPSHOT.jar
+- `java -jar /path/to/kirana_transactions-0.0.1-SNAPSHOT.jar`
 
 ## Creating a User
 
