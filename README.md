@@ -4,7 +4,7 @@
 ## Starting the Server
 
 Before starting the server, set the following environment variables:
-- `DB_HOST` (in following format: jdbc:mysql://<host>:<port>/<db_name>
+- `DB_HOST` (in following format: jdbc:mysql://<db_host>:<db_port>/<db_name>
 - `DB_USERNAME`
 - `DB_PASSWORD`
 
