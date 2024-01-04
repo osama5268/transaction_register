@@ -4,16 +4,15 @@
 ## Starting the Server
 
 Before starting the server, set the following environment variables:
-- `DB_HOST`
+- `DB_HOST` (in following format: jdbc:mysql://<host>:<port>/<db_name>
 - `DB_USERNAME`
 - `DB_PASSWORD`
-- `DB_NAME`
 
 You can use `setx` (Windows) or `export` (Unix/Linux) for temporary variables.
 
 To start the server, use the following command:
 
-
+- java -jar /path/to/kirana_transactions-0.0.1-SNAPSHOT.jar
 
 ## Creating a User
 
