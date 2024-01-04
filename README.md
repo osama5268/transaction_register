@@ -11,7 +11,7 @@ Before starting the server, set the following environment variables:
 You can use `setx` (Windows) or `export` (Unix/Linux) for temporary variables.
 
 To start the server, use the following command:
-
+(the code was compiled using java 21)
 - `java -jar /path/to/kirana_transactions-0.0.1-SNAPSHOT.jar`
 
 ## Creating a User
